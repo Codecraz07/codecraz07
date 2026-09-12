@@ -93,11 +93,11 @@
 <p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+<img src="https://www.linkedin.com/in/dilip-sharma-250128316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 </a>
 
 <a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram">
+<img src="https://www.instagram.com/iamdilippp07?stkn=N2h0czMwNXR6MnRw=for-the-badge&logo=instagram">
 </a>
 
 </p>
