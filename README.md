@@ -96,7 +96,7 @@
 <img src="https://www.linkedin.com/in/dilip-sharma-250128316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href=" https://www.instagram.com/iamdilippp07?stkn=N2h0czMwNXR6MnRw ">
 <img src="https://www.instagram.com/iamdilippp07?stkn=N2h0czMwNXR6MnRw=for-the-badge&logo=instagram">
 </a>
 
